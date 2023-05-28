@@ -1,0 +1,65 @@
+commit 9201fb0391ce5867dd5df16e685a4604d3f188
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Sun Jun 5 02:45:39 2022 +0100
+
+    Final corrections-colour
+
+commit 8ca1b6214b83ea9ec20c61d62617f6f72686f0
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Sat Jun 4 01:58:13 2022 +0100
+
+    abstract update
+
+commit d4e22e83b4401cee6479bde6c4e7ba5f63b6a5
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Fri Jun 3 13:30:55 2022 +0100
+
+    conclusion
+
+commit b108d7ae05cb6c2f6eba59652b4b2299b6136f
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Tue May 31 03:45:57 2022 +0100
+
+    Heat map analysis
+
+commit 41bbf1e7a0ef2f53141fec65254f0b697bbdb3
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Mon May 30 09:25:09 2022 +0100
+
+    temprature vs render
+
+commit 2ef96c7e0c3fbf8c6b4831bbfaff3ffeed9826
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Sat May 28 07:18:32 2022 +0100
+
+    gpu analysis
+
+commit d40d248cd52fb85dcdf85b422fce9fd52fb530
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Thu May 26 06:58:31 2022 +0100
+
+    initial analysis pair plots
+
+commit e5b0e3711c6db302e7b176cb33078cd083a3ac
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Wed May 25 06:52:29 2022 +0100
+
+    merge data gpu 
+
+commit 8ea717696f942660987dbd8ad0fa66694ffbaa
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Tue May 24 04:18:48 2022 +0100
+
+    preprocessing task and checkpoint data
+
+commit 0696e45e4bf2bb08f292387f7b490cbb284dbe
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Fri May 20 15:07:59 2022 +0100
+
+    Dataset loading
+
+commit c3097d930c5496ebff28e8813e9ec03d8ae509
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Fri May 20 14:40:00 2022 +0100
+
+    Cloud project-c1044105

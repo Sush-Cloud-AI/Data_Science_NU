@@ -1,0 +1,29 @@
+
+## 1. Context
+Cloud computing has allowed the businesses and researchers to scale up or scale down the computing resources as per the needs without requiring investing capital upfront for physical infrastructure. This has helped in leveraging the pay as you use model. By allocating and optimizing the cloud architecture resources we can further reduce the cost. 
+
+## 2. Objective
+The aim of the analysis is to extract information from the terapixel image generated data from the application and system metrics and pinpoint where the resource optimization should be focused. So that right resources can be allocated to appropriate task so and in turn the cost of operation can be reduced.
+
+##3. Method
+To execute this project, we have followed CRISP-DM approach for data mining and exploratory analysis. We have used Python as programming language in Jupyter notebook with some of the packages like matplotlib and seaborn for graphical analysis. Git was used for version control.
+
+
+## 4. Steps to execute this Project.
+Note : This project is built in as a pipe line structure , cells should be executed sequentially . 
+
+1) Download the cloud_c1044105.ipynb file from note book folder and data set(zip file) TeraScope.zip file
+2) Unzip the data file .The unzipped contains 3 files (gpu.csv, application-checkpoints.csv, task-x-y.csv).
+3) copy the path of the files and paste it the appropriate variables as shown below in the ipynb file.(refer the inline comments in code as well)
+
+gpu = pd.read_csv("path ----/gpu.csv")
+app_checpnt= pd.read_csv("path----/application-checkpoints.csv")
+task = pd.read_csv("path ----/task-x-y.csv")
+
+4) Necessary packages and modules are imported inthe ipynb file ( present in requirments.txt for reference aswell)
+4) Run all the cells one after the other 
+5) Pre-processing of data is done in a single cell and will generate two csv files with the merged and processed data (can be used directly to reduce pre-processing time)
+6)Rest of the analysis can be executed one after the other.(some of the plots may take some time to generate as the data set is large)
+7) All of the explanations made as mark down and in-line comments for the code.
+8) report is generated with and without the code(only graphs and markdown) using juypter nbconverter for reference.(reports folder)
+
