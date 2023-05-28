@@ -1,0 +1,59 @@
+commit 26782abf9d070298f78e705286ebcfb7e2dd405
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Tue May 31 20:13:37 2022 +0100
+
+    final commit
+
+commit 60030daf79f82b790bd4bf64dfd57455b5a80e8
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Mon May 30 20:07:49 2022 +0100
+
+    abstract report compl
+
+commit 6218787489911cb9058e6cb788b89e61c5affad
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Thu May 26 20:05:48 2022 +0100
+
+    check point 6 Model rebuild resnet 
+
+commit 33ba0dee0ed2358c58c068fcfdf19b551a0e38f
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Mon May 23 19:40:21 2022 +0100
+
+    check point 5 Model build VGG
+
+commit c3725fa084b227fba2a2c30bd323b986e736f79
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Sun May 22 19:08:57 2022 +0100
+
+    check point 4 split data
+
+commit 6f6170a83a0a268b80612e55eb3cfa49d7f3533
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Sat May 21 14:02:54 2022 +0100
+
+    checkpoint 3 folder structure create
+
+commit 0626617f0a6a0e02d8d8e4df397e1eeffa90711
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Fri May 20 11:31:41 2022 +0100
+
+    checkpoint 2 changes to EDA wrrite-up
+
+commit 674da9c33ed34c75e7a3db732ae1ddb88c9f5f8
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Wed May 18 10:45:12 2022 +0100
+
+    checkpoint 1 - intial EDA 
+
+commit 941251c410174e6fc84f97cf0ef1c9fc90689a9
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Fri May 13 17:44:29 2022 +0100
+
+    Loading Data to collab
+
+commit 380f617e570356f1e5bb760a03fd9e0a3b3ac1b
+Author: Sushanth SR <sushanthsr14@gmail.com>
+Date:   Tue May 10 17:31:10 2022 +0100
+
+    initial configuration
